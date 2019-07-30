@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def snell(theta_inc, n1, n2):
     """
     Compute the reflaction angle using Snell's law
